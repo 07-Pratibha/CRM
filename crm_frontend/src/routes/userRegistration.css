@@ -1,0 +1,35 @@
+.paper-registration {
+    height: 540px;
+    width: 540px;
+    display: flex;
+    align-items: center;
+    background-color: #ffffff;
+}
+
+.containpaper-registration {
+    display: flex;
+    align-items: center;
+    /* text-align: center; */
+    height: 100vh;
+    justify-content: center;
+    background-color: gainsboro;
+
+}
+
+.grid2 {
+    margin-left: 20px !important;
+    margin-top: 25px !important;
+    margin-right: 20px !important;
+}
+
+.submit-registration {
+    /* margin-left: 20px !important;  */
+    margin-top: 20px !important;
+    display: flex;
+    justify-content: space-around;
+}
+/* 
+.button {
+    margin-left: 100px;
+    margin-right: 100px;
+} */

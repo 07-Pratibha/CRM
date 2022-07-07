@@ -1,0 +1,33 @@
+.paper {
+    height: 400px;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    background-color: #ffffff;
+}
+
+.containpaper {
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+    background-color: gainsboro;
+
+}
+
+.grid1 {
+    margin-left: 20px !important;
+    margin-top: 25px !important;
+    margin-right: 20px !important;
+}
+
+.submit {
+    margin-top: 20px !important;
+    display: flex;
+    justify-content: center;
+}
+
+.button-bottom {
+    margin-left: 56px !important; 
+    margin-right: 40px !important;
+}
